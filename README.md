@@ -65,10 +65,10 @@
   <a href="https://github.com/HashpreetKaur" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/hash-kaur-0629b7370" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="hashdhillon27@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
